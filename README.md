@@ -7,7 +7,7 @@ On an everyday basis, many use weather forecasts to determine what to wear on a 
 # Go to this link to check my website
 https://siddharth-thakur10.github.io/WeatherWebsite1/
 
-#ScreenShots
+# Screenshots
 
 ## HOMEPAGE 
 ![Screenshot 1 homepage](https://user-images.githubusercontent.com/78204657/209446795-cb0eb2f9-245b-4fee-97e2-b4f547a4ae1f.png)
