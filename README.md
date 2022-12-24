@@ -4,7 +4,7 @@ On an everyday basis, many use weather forecasts to determine what to wear on a 
 
 ➡️ The homepage have 3 items Consisting of Temperature, Wind speed, sunset-sunrise time and Humidity.
 
-#Go to this link to check my website
+# Go to this link to check my website
 https://siddharth-thakur10.github.io/WeatherWebsite1/
 
 #ScreenShots
