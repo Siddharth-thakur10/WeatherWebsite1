@@ -1,11 +1,8 @@
-# WeatherWebsite1
+# WeatherWebsite
 
 On an everyday basis, many use weather forecasts to determine what to wear on a given day. Since outdoor activities are severely curtailed by heavy rain, snow and wind chill, forecasts can be used to plan activities around these events, and to plan ahead and survive them.
 
 ➡️ The homepage have 3 items Consisting of Temperature, Wind speed, sunset-sunrise time and Humidity.
-
-# Go to this link to check my website
-https://siddharth-thakur10.github.io/WeatherWebsite1/
 
 # Screenshots
 
